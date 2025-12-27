@@ -1,0 +1,18 @@
+# Cache e logs do sistema
+.cache/
+*.log
+
+# Pastas temporárias de screenshots (se você tiver)
+screenshots/raw/
+
+# Arquivos temporários de editores
+*.swp
+*.swo
+*.tmp
+
+# Arquivos específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Pacotes ou builds locais (se houver)
+*.pkg.tar.zst
