@@ -1,11 +1,11 @@
 # Arch Linux + Hyprland Dotfiles
 
-Configuração pessoal do Arch Linux usando Hyprland.
+Configuração pessoal do meu Archlinux usando Hyprland.
 
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/arch-hyprland
+git clone https://github.com/sns-assis/arch-hyprland
 cd arch-hyprland
 ./scripts/install.sh
 
