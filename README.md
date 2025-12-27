@@ -23,16 +23,16 @@ Este repositório contém:
 ## 📸 Screenshots
 
 ### Desktop
-![Desktop](arch-hyprlandd/screenshots/desktop.png)
+![Desktop](screenshots/desktop.png)
 
 ### Waybar
-![Waybar](arch-hyprlandd/screenshots/waybar.png)
+![Waybar](screenshots/waybar.png)
 
 ### Rofi
-![Rofi](arch-hyprlandd/screenshots/rofi.png)
+![Rofi](screenshots/rofi.png)
 
 ### Kitty
-![Kitty](arch-hyprlandd/screenshots/kitty.png)
+![Kitty](screenshots/kitty.png)
 
 
 Este repositório contém **toda a minha configuração pessoal do Arch Linux com Hyprland**, organizada para que eu consiga **reinstalar tudo em um novo PC com poucos comandos**.
