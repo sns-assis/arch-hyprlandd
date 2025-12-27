@@ -20,6 +20,21 @@ Este repositório contém:
 - ZSH como shell padrão
 # Arch Linux + Hyprland Dotfiles
 
+## 📸 Screenshots
+
+### Desktop
+![Desktop](arch-hyprlandd/screenshots/desktop.png)
+
+### Waybar
+![Waybar](arch-hyprlandd/screenshots/waybar.png)
+
+### Rofi
+![Rofi](arch-hyprlandd/screenshots/rofi.png)
+
+### Kitty
+![Kitty](arch-hyprlandd/screenshots/kitty.png)
+
+
 Este repositório contém **toda a minha configuração pessoal do Arch Linux com Hyprland**, organizada para que eu consiga **reinstalar tudo em um novo PC com poucos comandos**.
 
 Inclui:
