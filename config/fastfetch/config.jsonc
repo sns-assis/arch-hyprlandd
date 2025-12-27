@@ -1,0 +1,110 @@
+{
+  "$schema": "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/dev/doc/json_schema.json",
+
+ "logo": {
+  "source": "/home/samuel/.config/fastfetch/ascii.txt",
+  "color": {
+    "6": true
+  }
+},
+
+  
+
+  "display": {
+    "color": {
+      "title": "#8EAD68",
+      "keys": "white"
+    }
+  },
+
+  "modules": [
+   
+    {
+      "type": "title",
+      "color": "blue"
+    },
+    {
+      "type": "custom",
+      "format": "───────────────────",
+      "color": "blue"
+    },
+    {
+      "type": "os",
+      "key": " OS"
+    },
+    {
+      "type": "kernel",
+      "key": " Kernel"
+    },
+    {
+      "type": "wm",
+      "key": " WM"
+    },
+    {
+      "type": "terminal",
+      "key": " Terminal"
+    },
+    {
+      "type": "shell",
+      "key": " Shell"
+    },
+
+    {
+      "type": "uptime",
+      "key": "󰅐 Uptime"
+    },
+
+    {
+      "type": "custom",
+      "format": "───────────────────",
+      "color": "#D8BFD8"
+    },
+    {
+      "type": "cpu",
+      "key": " CPU"
+    },
+    {
+      "type": "gpu",
+      "key": "󰍛 GPU"
+    },
+    {
+      "type": "memory",
+      "key": "󰍛 RAM"
+    },
+    {
+      "type": "disk",
+      "key": "󰋊 Disk"
+    },
+
+    
+    {
+      "type": "custom",
+      "format": "───────────────────",
+      "color": "#D8BFD8"
+    },
+    {
+      "type": "packages",
+      "key": "󰏖 Pkgs"
+    },
+    {
+      "type": "localip",
+      "key": "󰩟 IP"
+    },
+    {
+      "type": "custom",
+      "format": "───────────────────",
+      "color": "#D8BFD8"
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 2,
+      "symbol": "circle"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "break"
+    }
+  ]
+}
